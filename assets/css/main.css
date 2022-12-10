@@ -1769,6 +1769,13 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 		}
+		
+		.image.fit2 {
+			width: 100px;
+			height: 48px;
+			box-shadow: none;
+			margin-bottom: 0px;
+		}
 
 		.image.featured {
 			display: block;
